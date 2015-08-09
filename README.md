@@ -13,3 +13,6 @@ There are some sample for some autoresponder Raw HTML form.
 
 ## Note
 For some autoresponder that uses random generated strings as the field names, this script could not extract that!
+
+## Implementation
+I use this script in one of my project intelliplayer.com.
